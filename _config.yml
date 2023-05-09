@@ -288,7 +288,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-remote_theme: Beautiful Jekyll
+# remote_theme: Beautiful Jekyll
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
 
