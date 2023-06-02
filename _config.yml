@@ -22,7 +22,7 @@ author: Harry Oestreicher
 navbar-links:
   About: "about"
   Resources:
-    - UMR Streamlit EDA: "https://harry-oestreicher-umr-streamlit-eda-home-fmh202.streamlit.app/NMR_Top_N"
+    - UMR Streamlit EDA: "https://umresearch-eda.streamlit.app/"
     - UMR EDA Repo: "https://github.com/harry-oestreicher/umr_eda"
 
 ################
