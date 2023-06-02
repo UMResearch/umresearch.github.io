@@ -22,8 +22,8 @@ author: Harry Oestreicher
 navbar-links:
   About: "about"
   Resources:
-    - UMR Streamlit EDA: "https://umresearch-eda.streamlit.app/"
-    - UMR EDA Repo: "https://github.com/harry-oestreicher/umr_eda"
+    - Streamlit EDA: "https://umresearch-eda.streamlit.app/"
+    - Jupyter EDA Repo: "https://github.com/harry-oestreicher/umr_eda"
 
 ################
 # --- Logo --- #
@@ -88,7 +88,7 @@ rss-description: This website is a tribute \m/
 share-links-active:
   twitter: true
   facebook: false
-  linkedin: true
+  linkedin: false
   vk: false
 
 # How to display the link to your website in the footer
